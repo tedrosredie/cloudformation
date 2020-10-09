@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: 2010-09-09
+AWSTemplateFormatVersion: 2020-10-09
 Description: Basic S3 Bucket CloudFormation template
 Resources:
   S3BucketForWebsiteContent:
